@@ -1,0 +1,23 @@
+{
+  "version": "0.1",
+  "name": "Telegram FoxOS",
+  "description": "A telegram client for Firefox OS",
+  "launch_path": "/templates/index.html",
+  "icons": {
+    "01": "/static/icons/favicon.png",
+  },
+  "developer": {
+    "name": "Grampus Team",
+    "url": "http://grampusteam.com"
+  },
+  "locales": {
+    "es": {
+      "description": "Un cliente de Telegram para Firefox OS",
+      "developer": {
+        "url": "http://grampusteam.com"
+      }
+    },
+    }
+  },
+  "default_locale": "en"
+}
